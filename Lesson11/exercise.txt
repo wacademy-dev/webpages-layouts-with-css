@@ -7,5 +7,5 @@
 <li>Inside the&nbsp;<code>.container</code>&nbsp;rules, define a&nbsp;<code>grid-template-areas</code>&nbsp;property and set a value for it using letters, words, or numbers of your choice, putting a space between each&nbsp;<em>and</em>&nbsp;putting each row in a set of quotation marks.</li>
 <li>Hint: there should be 4 rows and 4 columns.</li>
 <li>For each element inside the grid, set a&nbsp;<code>grid-area</code>&nbsp;property, and set its value equal to whatever its representation is in the&nbsp;<code>grid-template-areas</code>&nbsp;layout you created.</li>
-<li>Click the green "Run Code" button to see your changes.</li>
+<li>Save the your work and open in a browser to see your changes.</li>
 </ul>

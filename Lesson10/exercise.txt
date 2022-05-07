@@ -6,9 +6,9 @@
 <li>Find the&nbsp;<code>style.css</code>&nbsp;file, which is inside the&nbsp;<code>css</code>&nbsp;folder.</li>
 <li>Find the rules for each paragraph in&nbsp;<code>style.css</code>. It will look like a list of&nbsp;<code>#one</code>,&nbsp;<code>#two</code>, etc.</li>
 <li>Visually measure element 1 in the image above. It starts on column line 1 and ends on column line 4, right? Code that measurement in the CSS rules for element&nbsp;<code>#one</code>.</li>
-<li>Click the green "Run Code" button to see your changes.</li>
+<li>Save the your work and open in a browser to see your changes.</li>
 <li>Visually measure elements 2, 3, and 4 in the image above. They start on row line 2 and end on row line 4, right? Code that measurement in the CSS rules for elements&nbsp;<code>#two</code>,&nbsp;<code>#three</code>, and&nbsp;<code>#four</code>.</li>
-<li>Click the green "Run Code" button to see your changes.</li>
+<li>Save the your work and open in a browser to see your changes.</li>
 <li>Visually measure element 8 in the image above. It starts on column line 1 and ends on column line 4, right? Code that measurement in the CSS rules for element&nbsp;<code>#eight</code>.</li>
-<li>Click the green "Run Code" button to see your changes.</li>
+<li>Save the your work and open in a browser to see your changes.</li>
 </ul>

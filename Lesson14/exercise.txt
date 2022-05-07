@@ -5,8 +5,8 @@
 <li>In&nbsp;<code>style.css</code>, find the&nbsp;<code>div</code>&nbsp;with a class of&nbsp;<code>container</code>. For now, its only CSS rule involves setting a black border.</li>
 <li>Set the container's display to flex in order to enable Flexbox (<code>display: flex;</code>).</li>
 <li>Set its&nbsp;<code>flex-direction</code>&nbsp;to&nbsp;<code>row</code>&nbsp;(<code>flex-direction: row;</code>).</li>
-<li>Click the green "Run Code" button to see your changes.</li>
+<li>Save the your work and open in a browser to see your changes.</li>
 <li>Now, set its&nbsp;<code>flex-direction</code>&nbsp;to&nbsp;<code>row-reverse</code>.</li>
 <li>Now, set its&nbsp;<code>flex-direction</code>&nbsp;to&nbsp;<code>row-reverse</code>.</li>
-<li>Click the green "Run Code" button to see your changes.</li>
+<li>Save the your work and open in a browser to see your changes.</li>
 </ul>
