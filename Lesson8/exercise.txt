@@ -1,0 +1,14 @@
+<h3>Lesson 8 Exercise - Create your first grid</h3>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>In&nbsp;<code>style.css</code>, find the rule set for&nbsp;<code>.container</code>&nbsp;(you'll see a code comment saying "Add grid rules here").</li>
+<li>Set a&nbsp;<code>display: grid;</code>&nbsp;on the container element.</li>
+<li>Set the following properties with values of your choice:</li>
+  <ul>
+<li><code>grid-template-columns</code>&nbsp;(use the "fr" unit!)</li>
+<li><code>grid-template-rows</code></li>
+<li><code>grid-auto-rows</code></li>
+<li><code>grid-gap</code></li>
+  </ul>
+<li>Save the your work and open in a browser to see your changes.</li>
+</ul>

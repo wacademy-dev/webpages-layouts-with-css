@@ -1,0 +1,31 @@
+* {
+  font-family: Helvetica;
+  font-size: 1.2em;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  display: grid;
+  grid-template: repeat(4, 80px) / repeat(4, 1fr);
+}
+
+header {
+  background-color: #D0021B;
+}
+
+section#a {
+  background-color: #9013FE;
+}
+
+section#b {
+  background-color: #F8E71C;
+}
+
+section#c {
+  background-color: #F5A623;
+}
+
+footer {
+  background-color: #50E3C2;
+}

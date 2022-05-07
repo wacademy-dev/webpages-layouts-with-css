@@ -1,0 +1,22 @@
+body {
+  color: #000;
+  font-family: Futura;
+  padding: 20px;
+}
+
+p {
+    display: inline;
+    font-size: 28px;
+}
+
+#one {
+  border: 3px dashed #fc4347;
+}
+
+#two {
+/*   your border rules here */
+}
+
+#three {
+/*   your border rules here */
+}

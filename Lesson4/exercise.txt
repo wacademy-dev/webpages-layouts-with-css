@@ -1,0 +1,8 @@
+<h3>Lesson 4 Exercise - Add margins</h3>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Center the entire body element by adding the appropriate margins. How about adding&nbsp;<code>margin: 0px auto</code>&nbsp;somewhere? ;)</li>
+<li>Save the your work and open in a browser to see your changes.</li>
+<li>Add margins of your choice to the paragraph elements.</li>
+<li>Save the your work and open in a browser to see your changes.</li>
+</ul>

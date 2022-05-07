@@ -1,0 +1,6 @@
+<h3>Lesson 2 Exercise - Add borders</h3>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Add a different border style, color, and width to each of the paragraph elements on the right. One has already been done for you, but you can change it!</li>
+<li>Save the your work and open in a browser to see your changes.</li>
+</ul>

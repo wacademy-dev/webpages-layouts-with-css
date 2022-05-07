@@ -1,0 +1,7 @@
+<h3>Lesson 3 Exercise - Add padding</h3>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Add a padding value of 3% to the&nbsp;<code>h1</code>&nbsp;element and a padding value of 5% to the&nbsp;<code>p</code>&nbsp;element.</li>
+<li>Save the your work and open in a browser to see your changes.</li>
+<li>Feel free to experiment further with padding values in pixels or em or rem units.</li>
+</ul>

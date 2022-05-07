@@ -1,0 +1,12 @@
+<h3>Lesson 14 Exercise - Add Flexbox to your elements</h3>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Find the<code>style.css</code>&nbsp;file, which is inside the&nbsp;<code>css</code>&nbsp;folder.</li>
+<li>In&nbsp;<code>style.css</code>, find the&nbsp;<code>div</code>&nbsp;with a class of&nbsp;<code>container</code>. For now, its only CSS rule involves setting a black border.</li>
+<li>Set the container's display to flex in order to enable Flexbox (<code>display: flex;</code>).</li>
+<li>Set its&nbsp;<code>flex-direction</code>&nbsp;to&nbsp;<code>row</code>&nbsp;(<code>flex-direction: row;</code>).</li>
+<li>Click the green "Run Code" button to see your changes.</li>
+<li>Now, set its&nbsp;<code>flex-direction</code>&nbsp;to&nbsp;<code>row-reverse</code>.</li>
+<li>Now, set its&nbsp;<code>flex-direction</code>&nbsp;to&nbsp;<code>row-reverse</code>.</li>
+<li>Click the green "Run Code" button to see your changes.</li>
+</ul>

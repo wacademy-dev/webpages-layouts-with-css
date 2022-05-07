@@ -1,0 +1,9 @@
+<h3>Lesson 5 Exercise - Customize widths</h3>
+<p><strong>Tasks</strong></p>
+<ul>
+<li>Add a width of 50% to the paragraph elements.</li>
+<li>Save the your work and open in a browser to see your changes.</li>
+<li>Click the popout arrow at the top right of the window that shows the page result. This will open the page in a new tab. Resize the page; see how the content gets really small if you make your browser window smaller and really wide if you make your browser window wider?</li>
+<li>To fix this, add a&nbsp;<code>min-width</code>&nbsp;of 300px and a&nbsp;<code>max-width</code>&nbsp;of 800px to the body element.</li>
+<li>Save the your work and open in a browser to see your changes.</li>
+</ul>
