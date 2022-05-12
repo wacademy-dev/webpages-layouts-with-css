@@ -1,6 +1,7 @@
 <h3>Lesson 11 Exercise - Set a template with grid-template-areas</h3>
 <p>Here's the result you'll be working towards in this exercise:</p>
 <figure><img src="assets/courses/webcss/l11-exe" alt="Screenshot 2018-05-26 14.47.41.png" /></figure>
+<p>Open the Lesson 11 folder of the <code>web-pages-layouts-with-css</code> Exercises repo you cloned for this course and carry out the following tasks.</p>
 <p><strong>Tasks</strong></p>
 <ul>
 <li>Find the&nbsp;<code>style.css</code>&nbsp;file, which is inside the&nbsp;<code>css</code>&nbsp;folder.</li>
@@ -9,3 +10,5 @@
 <li>For each element inside the grid, set a&nbsp;<code>grid-area</code>&nbsp;property, and set its value equal to whatever its representation is in the&nbsp;<code>grid-template-areas</code>&nbsp;layout you created.</li>
 <li>Save the your work and open in a browser to see your changes.</li>
 </ul>
+<p class="p">Visit the Facebook link below to submit a screenshot of your work.</p>
+<p class="p">Share screenshot as comment at <a href="https://www.facebook.com/groups/webclickacademy/posts/1017964162168683/" target="_blank" rel="noopener">https://www.facebook.com/groups/webclickacademy/posts/1017964162168683</a></p>

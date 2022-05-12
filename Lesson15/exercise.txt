@@ -1,4 +1,5 @@
 <h3>Lesson 15 Exercise - Align items and justify content</h3>
+<p>Open the Lesson 15 folder of the <code>web-pages-layouts-with-css</code> Exercises repo you cloned for this course and carry out the following tasks.</p>
 <p><strong>Tasks</strong></p>
 <ul>
 <li>Find the&nbsp;<code>style.css</code>&nbsp;file, which is inside the&nbsp;<code>css</code>&nbsp;folder.</li>
@@ -8,3 +9,5 @@
 <li>Align items along the cross axis (<code>align-items</code>) using the value of your choice. It could be&nbsp;<code>stretch</code>,&nbsp;<code>flex-start</code>,&nbsp;<code>flex-end</code>,&nbsp;<code>center</code>, or&nbsp;<code>baseline</code>.</li>
 <li>Save the your work and open in a browser to see your changes.</li>
 </ul>
+<p class="p">Visit the Facebook link below to submit a screenshot of your work.</p>
+<p class="p">Share screenshot as comment at <a href="https://www.facebook.com/groups/webclickacademy/posts/1017965108835255/" target="_blank" rel="noopener">https://www.facebook.com/groups/webclickacademy/posts/1017965108835255</a></p>

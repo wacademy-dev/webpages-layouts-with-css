@@ -1,4 +1,5 @@
 <h3>Lesson 9 Exercise - Use the grid-template property</h3>
+<p>Open the Lesson 9 folder of the <code>web-pages-layouts-with-css</code> Exercises repo you cloned for this course and carry out the following tasks.</p>
 <p><strong>Tasks</strong></p>
 <ul>
 <li>Find the&nbsp;<code>style.css</code>&nbsp;file, which is inside the&nbsp;<code>css</code>&nbsp;folder.</li>
@@ -6,3 +7,5 @@
 <li>Combine the column and row specifications into one line of code using&nbsp;<code>grid-template</code>. Remember: the row specifications come first, followed a forward slash, followed by the column specifications.</li>
 <li>Save the your work and open in a browser to see your changes.</li>
 </ul>
+<p class="p">Visit the Facebook link below to submit a screenshot of your work.</p>
+<p class="p">Share screenshot as comment at <a href="https://www.facebook.com/groups/webclickacademy/posts/1017963155502117/" target="_blank" rel="noopener">https://www.facebook.com/groups/webclickacademy/posts/1017963155502117</a></p>

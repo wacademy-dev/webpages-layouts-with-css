@@ -1,4 +1,5 @@
 <h3>Lesson 6 Exercise - Add a media query</h3>
+<p>Open the Lesson 6 folder of the <code>web-pages-layouts-with-css</code> Exercises repo you cloned for this course and carry out the following tasks.</p>
 <p><strong>Tasks</strong></p>
 <ul>
 <li>Make the browser window narrower to see how the content gets crushed as screen sizes get smaller. A media query will fix this!</li>
@@ -12,3 +13,5 @@
   </ul>
 <li>Save the your work and open in a browser to see your changes. Make the window narrower so your media query can take effect, and you can see its results!</li>
 </ul>
+<p class="p">Visit the Facebook link below to submit a screenshot of your work.</p>
+<p class="p">Share screenshot as comment at <a href="https://www.facebook.com/groups/webclickacademy/posts/1017962132168886/" target="_blank" rel="noopener">https://www.facebook.com/groups/webclickacademy/posts/1017962132168886</a></p>
